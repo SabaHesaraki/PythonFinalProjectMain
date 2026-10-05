@@ -56,12 +56,12 @@ The app starts with a simple login screen.
 ### Export CSV
 
 <p align="center">
-  <img src="src="https://github.com/user-attachments/assets/34527197-e241-41ea-929b-bf87deb32d5d"  alt="Login Window" width="600"/>
+  <img src="https://github.com/user-attachments/assets/34527197-e241-41ea-929b-bf87deb32d5d"  alt="Login Window" width="600"/>
 
 </p>
 
 <p align="center">
-  <img src="src=https://github.com/user-attachments/assets/ed108468-70f6-4341-a5b3-e0b4874be9e1" alt="Login Window" width="600"/>
+  <img src="https://github.com/user-attachments/assets/ed108468-70f6-4341-a5b3-e0b4874be9e1" alt="Login Window" width="600"/>
 
 </p>
 
