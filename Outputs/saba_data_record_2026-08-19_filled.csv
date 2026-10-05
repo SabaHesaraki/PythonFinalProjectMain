@@ -1,0 +1,5 @@
+ID,Date,Plot,Location,Plant,Type,Soil,pH,Temp,Humidity,Notes
+5,2026-10-06,PL-104,Central Yard,Rose,Flower,Clay,6.20,23.80,55.00,Pruning completed successfully.
+4,2026-10-06,PL-103,South Sector,Strawberry,Fruit,Peat,5.80,20.00,70.00,First signs of flowering observed.
+3,2026-10-06,PL-102,West Garden,Lavender,Herb,Sandy,7.00,22.00,45.00,Needs moderate sunlight and low moisture
+2,2026-10-06,PL-101,North Greenhouse,Tomato,Vegetable,Loamy,6.52,24.50,65.00,"Healthy growth, regular watering."
