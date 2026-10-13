@@ -17,7 +17,7 @@ class MainApp(tk.Tk):
         self.ACCENT_WARM = "#D27D7D"
         self.TEXT_COLOR = "#2D3748"
 
-        self.title("🌱 Saba Data Entry & Plant Management System")
+        self.title("Saba Data Entry & Plant Management System")
         self.geometry("980x680")
         self.configure(bg=self.BG_MAIN)
         self.minsize(900, 600)
@@ -63,7 +63,7 @@ class MainApp(tk.Tk):
         # Header
         lbl_title = tk.Label(
             self.login_window,
-            text="🌿 Welcome Back",
+            text="Welcome Back",
             font=("Segoe UI", 16, "bold"),
             bg=self.BG_MAIN,
             fg=self.PRIMARY_OLIVE,
@@ -150,7 +150,7 @@ class MainApp(tk.Tk):
 
         lbl_header = tk.Label(
             top_bar,
-            text="🌿 SABA DATA ENTRY APP - PLANT RECORDS",
+            text="SABA DATA ENTRY APP - PLANT RECORDS",
             font=("Segoe UI", 12, "bold"),
             bg=self.PRIMARY_OLIVE,
             fg="white",
